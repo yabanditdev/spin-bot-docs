@@ -1,0 +1,9 @@
+site_name: YaBandit Spin Bot Docs
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Commands:
+      - Add prize: commands/spin-add-prize.md
+      - List prizes: commands/spin-list-prizes.md
+repo_url: https://github.com/<your-username>/spin-bot-docs
